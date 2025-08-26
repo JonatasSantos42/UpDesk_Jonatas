@@ -1,7 +1,8 @@
 # PSOO
 
 ## 📌 Descrição do Desafio
-O projeto PSOO tem como objetivo resolver a dor do parceiro [descrever aqui o problema enfrentado pelo parceiro]. O desafio consiste em [detalhar a proposta ou a necessidade a ser atendida].
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper libero lorem, vitae ullamcorper justo imperdiet quis. Morbi quam nisl, placerat quis pharetra nec, consectetur ac mauris. Mauris viverra porta ipsum, id laoreet purus fringilla ut. Suspendisse nunc tortor, laoreet in est vitae, placerat ornare elit. Aliquam at ullamcorper dui. Fusce non venenatis velit, id condimentum tellus. Duis porttitor id magna scelerisque pharetra. Sed id tempus tellus, sit amet eleifend elit.
 
 ## 📋 Backlog do Produto
 - [Item 1 do backlog]
