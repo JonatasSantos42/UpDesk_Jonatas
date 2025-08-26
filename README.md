@@ -1,4 +1,3 @@
-readme_content = """
 # PSOO
 
 ## 📌 Descrição do Desafio
