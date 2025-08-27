@@ -32,7 +32,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper lib
 
 # 🚀 Como executar, usar e testar o projeto
 
+Cras porttitor, nulla sit amet fringilla ornare, risus libero dictum mauris, a mollis quam eros eu nunc. Vestibulum non purus at eros tristique malesuada. Etiam vulputate tincidunt velit, ac rutrum lacus posuere sagittis. Vestibulum eget pulvinar felis, vitae sodales sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id lacus at est efficitur malesuada. Vestibulum suscipit consequat dui, fringilla consequat arcu ultricies vehicula. Integer in orci nibh. Sed sit amet ligula ut augue lacinia tristique.
+
 ## 📂 Link para pasta de Documentação
+
+[Link](#)
 
 ## 👥 Membros da equipe
 
