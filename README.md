@@ -30,6 +30,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper lib
 
 ## 🧱 Estrutura do Projeto
 
+Etiam venenatis tincidunt egestas. Fusce id sem in nisl posuere eleifend. Aliquam ut felis porta, sollicitudin nisl et, euismod dolor. Nunc in elementum leo, at ultrices nunc. Mauris feugiat ex sed magna imperdiet, eu lacinia libero molestie. Nam euismod neque pretium mi hendrerit bibendum. Aenean finibus posuere odio, sed sollicitudin nulla. Aenean bibendum quis purus ut tincidunt. Sed molestie euismod sem id vehicula. Suspendisse dictum tempus eros, ut ullamcorper nulla tempor eget. Pellentesque aliquet lectus quam, eget tristique enim mattis sit amet. Nullam nibh leo, varius ut turpis et, venenatis egestas velit.
+
 # 🚀 Como executar, usar e testar o projeto
 
 Cras porttitor, nulla sit amet fringilla ornare, risus libero dictum mauris, a mollis quam eros eu nunc. Vestibulum non purus at eros tristique malesuada. Etiam vulputate tincidunt velit, ac rutrum lacus posuere sagittis. Vestibulum eget pulvinar felis, vitae sodales sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id lacus at est efficitur malesuada. Vestibulum suscipit consequat dui, fringilla consequat arcu ultricies vehicula. Integer in orci nibh. Sed sit amet ligula ut augue lacinia tristique.
