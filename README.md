@@ -29,3 +29,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper lib
 - ...
 
 ## 🧱 Estrutura do Projeto
+
+# 🚀 Como executar, usar e testar o projeto
+
+## 📂 Link para pasta de Documentação
+
+## 👥 Membros da equipe
+
+| Nome Completo   | Papel                  | GitHub                            | LinkedIn                          |
+|-----------------|------------------------|-----------------------------------|-----------------------------------|
+| Jônatas Silva   |          -             | [@jonatasdev](https://github.com/jonatasdev) | [linkedin.com/in/jonatasdev](https://linkedin.com/in/jonatasdev) |
+| Maria Oliveira  |          -             | [@mariaux](https://github.com/mariaux)     | [linkedin.com/in/mariaux](https://linkedin.com/in/mariaux)     |
+| Lucas Pereira   |          -             | [@lucasp](https://github.com/lucasp)       | [linkedin.com/in/lucasp](https://linkedin.com/in/lucasp)       |
