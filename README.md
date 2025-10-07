@@ -81,7 +81,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 # 👨🏾‍💻 Equipe 
 | Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
 | ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
-| Mateus Teodoro da Silva | Desenvolvedor Back-end | [GitHub](https://github.com/MateusTeod/)| [LinkedIn](https://www.linkedin.com/in/mateus-teod/) |
+| Jônatas dos Santos Souza | PO | [GitHub](https://github.com/JonatasSantos42/)| [LinkedIn](https://www.linkedin.com/in/jonatas-dos-santos-souza/) |
 
 
 ---
