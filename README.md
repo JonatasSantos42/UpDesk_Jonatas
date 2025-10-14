@@ -1,3 +1,4 @@
+
 <p align="center">
   | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
   <a href="#backlog-do-produto">Backlog do Produto</a> |
@@ -73,7 +74,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## 📘 Manual do Usuário
 
-- [Manual de Usuário](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Manual%20de%20usuario.md)
+- [Manual de Usuário](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/670370a120b2359a47f794de32835718a358c27a/Documentos/Manual%20do%20Usu%C3%A1rio.docx)
 
 
 ---
