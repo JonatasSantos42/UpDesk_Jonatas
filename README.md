@@ -2,7 +2,6 @@
 <p align="center">
   | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
   <a href="#backlog-do-produto">Backlog do Produto</a> |
-  <a href="#cronograma-de-desenvolvimento">Cronograma de desenvolvimento |
   <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
   <a href="#sprints">Sprints</a> |
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
