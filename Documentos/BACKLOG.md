@@ -1,4 +1,4 @@
-# 📋 Backlog do Produto - UpDesk API
+# 📋 Backlog do Produto - UpDesk
 
 Este documento detalha todas as funcionalidades planejadas para o projeto UpDesk, organizadas em Histórias de Usuário.
 
