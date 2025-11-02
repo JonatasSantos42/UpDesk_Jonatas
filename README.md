@@ -1,6 +1,7 @@
 
 <p align="center">
   | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
+  <a href="#diagrama">Diagrama</a> |
   <a href="#backlog-do-produto">Backlog do Produto</a> |
   <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
   <a href="#sprints">Sprints</a> |
@@ -19,6 +20,10 @@ Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organ
 O UpDesk propõe uma solução inovadora com inteligência artificial integrada, permitindo a sugestão automática de soluções, categorização de chamados e direcionamento para o nível adequado de suporte.
 
 ---
+
+## 📂 Diagrama
+
+[Diagrama UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/UML_upDesk.asta)
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
 - [Backlog do UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/BACKLOG.md)
