@@ -43,7 +43,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ### [Clique aqui para o cronograma](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/sprintPlanning.md)
 
-## Tecnologias Utilizadas <a id="tecnologias-utlizadas"></a>
+## Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>
 
 - [Tecnologias Utilizadas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Tecnologias-utilizadas.md)
 
