@@ -26,11 +26,9 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 ## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
-- [Cronograma de evolução UpDesk](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Cronograma%20de%20evolucao.xlsx)
+- [Cronograma de evolução UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Cronograma%20de%20Evolucao.md)
 
 ---
-
-## 📊 Tabela de Sprints <a id="sprints"></a>
 
 ## 📊 Cronograma de Sprints
 Este documento detalha o cronograma do projeto, dividindo as tarefas por semana e por time (Desenvolvimento Web e ServerSide).
@@ -48,19 +46,19 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## Tecnologias Utilizadas <a id="tecnologias-utlizadas"></a>
 
-- [Tecnologias Utilizadas](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Tecnologias-utilizadas.md)
+- [Tecnologias Utilizadas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Tecnologias-utilizadas.md)
 
 ---
 
 ## 📂 Estrutura do Projeto <a id="estrutura-de-pastas"></a>
    
-- [Estrutura das pastas](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Estrutura%20das%20pastas.md)
+- [Estrutura das pastas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Estrutura%20das%20pastas.md)
 
 ---
 
 ## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
 
-- [Como executar o projeto](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Executar%20projeto.md)
+- [Como executar o projeto](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Executar%20projeto.md)
 
 ---
 
