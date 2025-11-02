@@ -46,7 +46,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## Tecnologias Utilizadas <a id="tecnologias-utlizadas"></a>
 
-- [Tecnologias Utilizadas](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Tecnologias-utilizadas.md)
+- [Tecnologias Utilizadas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Tecnologias-utilizadas.md)
 
 ---
 
