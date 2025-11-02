@@ -64,7 +64,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## Pasta de documentação
 
-- [Pasta da documentacao](https://github.com/mancijo/UpDesk/tree/main/Documentation)
+- [Pasta da documentacao](https://github.com/JonatasSantos42/UpDesk_Jonatas/tree/main/Documentos/Documenta%C3%A7%C3%A3o%20PIM)
 
 ---
 
