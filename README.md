@@ -30,8 +30,6 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## 📊 Tabela de Sprints <a id="sprints"></a>
-
 ## 📊 Cronograma de Sprints
 Este documento detalha o cronograma do projeto, dividindo as tarefas por semana e por time (Desenvolvimento Web e ServerSide).
 
