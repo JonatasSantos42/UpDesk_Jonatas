@@ -77,13 +77,13 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## ✅ DoR (Definition of Ready)
 
-- [DoR (Definition of Ready)](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/DoR%20(Definition%20of%20Ready).md)
+- [DoR (Definition of Ready)](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/DoR%20(Definition%20of%20Ready).md)
 
 ---
 
 ## ✅ DoD (Definition of Done)
 
-- [DoD (Definition of Done)](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/DOD.md)
+- [DoD (Definition of Done)](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/DOD.md)
 
 ---
 
