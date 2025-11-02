@@ -70,6 +70,13 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ---
 
+# 👨🏾‍💻 Equipe 
+| Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
+| ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
+| Jônatas dos Santos Souza | PO | [GitHub](https://github.com/JonatasSantos42/)| [LinkedIn](https://www.linkedin.com/in/jonatas-dos-santos-souza/) |
+
+---
+
 ## ✅ DoR (Definition of Ready)
 
 - [DoR (Definition of Ready)](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/DoR%20(Definition%20of%20Ready).md)
@@ -85,14 +92,6 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 ## 📘 Manual do Usuário
 
 - [Manual de Usuário](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/670370a120b2359a47f794de32835718a358c27a/Documentos/Manual%20do%20Usu%C3%A1rio.docx)
-
-
----
-
-# 👨🏾‍💻 Equipe 
-| Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
-| ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
-| Jônatas dos Santos Souza | PO | [GitHub](https://github.com/JonatasSantos42/)| [LinkedIn](https://www.linkedin.com/in/jonatas-dos-santos-souza/) |
 
 
 ---
