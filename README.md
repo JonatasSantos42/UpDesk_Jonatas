@@ -58,7 +58,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
 
-- [Como executar o projeto](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Executar%20projeto.md)
+- [Como executar o projeto](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Executar%20projeto.md)
 
 ---
 
