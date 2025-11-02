@@ -23,7 +23,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## 📂 Diagrama
 
-[Diagrama UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/UML_upDesk.asta)
+- [Diagrama UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/UML_upDesk.asta)
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
 - [Backlog do UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/BACKLOG.md)
