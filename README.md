@@ -67,7 +67,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ---
 
-# 👨🏾‍💻 Equipe 
+# 👨🏾‍💻 Equipe <a id="equipe"></a>
 | Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
 | ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
 | Jônatas dos Santos Souza | PO | [GitHub](https://github.com/JonatasSantos42/)| [LinkedIn](https://www.linkedin.com/in/jonatas-dos-santos-souza/) |
