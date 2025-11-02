@@ -9,6 +9,7 @@
   <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
  <a href="#documentacao">Documentação</a> |  
   <a href="#equipe">Equipe</a> |
+  <a href="#manual">Manual do Usuário</a> |
 </p>
 
 # 🤖UpDesk-PIM-4
@@ -86,7 +87,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ---
 
-## 📘 Manual do Usuário
+## 📘 Manual do Usuário <a id="manual"></a>
 
 - [Manual de Usuário](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/670370a120b2359a47f794de32835718a358c27a/Documentos/Manual%20do%20Usu%C3%A1rio.docx)
 
